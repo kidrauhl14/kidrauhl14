@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/Truffle-4FC08D?style=for-the-badge&logo=truffle&logoColor=brown">
+<img src="https://img.shields.io/badge/Ganache-brown?style=for-the-badge&logo=Ganache&logoColor=white">
 <!--
 **kidrauhl14/kidrauhl14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
